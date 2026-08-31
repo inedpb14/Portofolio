@@ -1,0 +1,51 @@
+[
+  {
+    "id": "expert",
+    "number": "01",
+    "category": "SKRIPSI",
+    "icon": "expert",
+    "name": "Sistem Pakar Model Pembelajaran",
+    "description": "Aplikasi web fullstack berbasis AI rule-based untuk merekomendasikan model pembelajaran yang sesuai berdasarkan kriteria tertentu. Dibangun menggunakan MERN Stack secara end-to-end.",
+    "stack": ["MongoDB", "Express.js", "React.js", "Node.js", "REST API"],
+    "highlights": [
+      "REST API lengkap dengan Node.js & Express.js untuk logika sistem pakar",
+      "Rule-based logic untuk mendukung pengambilan keputusan berbasis AI",
+      "Database MongoDB untuk menyimpan kriteria dan rekomendasi",
+      "Antarmuka React.js yang interaktif dan responsif"
+    ],
+    "featured": true
+  },
+  {
+    "id": "workshop",
+    "number": "02",
+    "category": "FREELANCE",
+    "icon": "workshop",
+    "name": "Sistem Manajemen Bengkel AHASS TDM Martapura",
+    "description": "Sistem manajemen operasional bengkel otomotif resmi Honda yang mencakup pengelolaan pelanggan, pencatatan servis, dan transaksi berbasis web.",
+    "stack": ["Laravel", "MySQL", "PHP", "Web-Based"],
+    "highlights": [],
+    "featured": true
+  },
+  {
+    "id": "housing",
+    "number": "03",
+    "category": "ALGORITMA",
+    "icon": "housing",
+    "name": "SPK Pemilihan Perumahan Terbaik",
+    "description": "Sistem Pendukung Keputusan menggunakan metode hybrid Fuzzy dan Simple Additive Weighting (SAW) untuk merekomendasikan perumahan terbaik berdasarkan kriteria dan bobot.",
+    "stack": ["JavaScript", "MySQL", "Fuzzy Logic", "SAW"],
+    "highlights": [],
+    "featured": false
+  },
+  {
+    "id": "inventory",
+    "number": "04",
+    "category": "DASHBOARD",
+    "icon": "inventory",
+    "name": "Sistem Inventory & Dashboard Analisis",
+    "description": "Sistem manajemen stok barang dengan fitur monitoring real-time dan dashboard visualisasi data interaktif untuk mendukung pengambilan keputusan bisnis.",
+    "stack": ["React.js", "Node.js", "Data Viz", "REST API"],
+    "highlights": [],
+    "featured": false
+  }
+]

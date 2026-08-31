@@ -1,0 +1,21 @@
+{
+  "brand": "DPB.DEV",
+  "name": "Deni Prastya Budi",
+  "role": "Fullstack Developer · Fresh Graduate",
+  "heroDescription": "Membangun aplikasi web end-to-end — dari REST API dan database hingga antarmuka pengguna yang responsif. Spesialisasi di MERN Stack, Laravel, dan pengembangan sistem berbasis web.",
+  "location": "Bandar Lampung, Lampung",
+  "education": "S1 Sistem Informasi · UIN Raden Intan Lampung",
+  "availability": "Open to Work · Fresh Graduate",
+  "email": "deniprastyabudi@gmail.com",
+  "phone": "082289722997",
+  "github": "https://github.com/inedpb14",
+  "githubLabel": "github.com/inedpb14",
+  "heroPanelCaption": "BUILDING IDEAS INTO DIGITAL PRODUCTS",
+  "copyrightYear": 2026,
+  "stats": [
+    { "value": "4+", "label": "PROJECT SELESAI" },
+    { "value": "3", "label": "TECH STACK" },
+    { "value": "#1", "label": "JUARA LKTI" }
+  ],
+  "footerRole": "FULLSTACK DEVELOPER · BANDAR LAMPUNG"
+}

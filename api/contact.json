@@ -1,0 +1,9 @@
+{
+  "intro": "Silakan pilih kanal yang paling nyaman. Saya akan membalas secepat mungkin untuk membahas kebutuhan, timeline, dan langkah berikutnya.",
+  "note": "Saya siap berdiskusi tentang pengembangan web, integrasi API, dashboard data, dan produk digital berbasis kebutuhan nyata.",
+  "links": [
+    { "id": "email", "number": "01", "label": "deniprastyabudi@gmail.com", "href": "mailto:deniprastyabudi@gmail.com" },
+    { "id": "phone", "number": "02", "label": "082289722997", "href": "tel:082289722997" },
+    { "id": "github", "number": "03", "label": "github.com/inedpb14", "href": "https://github.com/inedpb14", "external": true }
+  ]
+}

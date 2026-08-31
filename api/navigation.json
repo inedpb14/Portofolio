@@ -1,0 +1,6 @@
+[
+  { "id": "home", "label": "Home", "route": "index.html" },
+  { "id": "projects", "label": "Projects", "route": "pages/projects.html" },
+  { "id": "experience", "label": "Experience", "route": "pages/experience.html" },
+  { "id": "contact", "label": "Contact", "route": "pages/contact.html" }
+]

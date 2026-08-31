@@ -1,0 +1,23 @@
+[
+  {
+    "id": "frontend",
+    "icon": "⚛",
+    "title": "Frontend Development",
+    "tone": "blue",
+    "tags": ["React.js", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3", "Vite"]
+  },
+  {
+    "id": "backend",
+    "icon": "◈",
+    "title": "Backend Development",
+    "tone": "green",
+    "tags": ["Node.js", "Express.js", "Laravel", "REST API", "Python", "PHP"]
+  },
+  {
+    "id": "tools",
+    "icon": "▦",
+    "title": "Database & Tools",
+    "tone": "purple",
+    "tags": ["MongoDB", "MySQL", "Git", "GitHub", "Figma", "CMS"]
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "expert": {
+    "role": "Fullstack Developer",
+    "type": "Project akademik",
+    "status": "Selesai",
+    "documentation": "MERN Stack + REST API",
+    "lede": "Aplikasi web fullstack berbasis AI rule-based untuk merekomendasikan model pembelajaran yang sesuai berdasarkan kriteria tertentu.",
+    "coverLabel": "Expert Learning System",
+    "coverCaption": "// visual konsep — tambahkan screenshot asli melalui data cover jika tersedia",
+    "sections": [
+      {
+        "number": "01",
+        "title": "Tantangan",
+        "paragraphs": [
+          "Pengguna membutuhkan rekomendasi model pembelajaran yang lebih terarah berdasarkan beberapa kriteria. Tantangan utamanya adalah menerjemahkan kriteria tersebut menjadi alur input dan rule yang mudah dipahami."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Pendekatan",
+        "subsections": [
+          {
+            "title": "Rule-based decision flow",
+            "paragraphs": ["Logika rekomendasi dipusatkan pada rule-based logic agar hasil dapat ditelusuri dari kriteria yang dipilih pengguna."]
+          },
+          {
+            "title": "End-to-end implementation",
+            "paragraphs": ["REST API, database, dan antarmuka React dibangun sebagai satu alur yang konsisten dari input kriteria sampai hasil rekomendasi."]
+          }
+        ],
+        "list": [
+          "Membangun REST API dengan Node.js dan Express.js",
+          "Mengelola data kriteria serta hasil rekomendasi di MongoDB",
+          "Menyajikan antarmuka React.js yang interaktif dan responsif"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Tumpukan Teknologi",
+        "stack": ["MongoDB", "Express.js", "React.js", "Node.js", "REST API"]
+      },
+      {
+        "number": "04",
+        "title": "Galeri",
+        "gallery": ["Input Kriteria", "Rule Engine", "Hasil Rekomendasi"]
+      },
+      {
+        "number": "05",
+        "title": "Hasil",
+        "outcomes": [
+          { "value": "MERN", "label": "Implementasi fullstack end-to-end" },
+          { "value": "API", "label": "Alur data terhubung melalui REST API" },
+          { "value": "AI", "label": "Rekomendasi berbasis rule yang dapat ditelusuri" }
+        ]
+      }
+    ]
+  },
+  "workshop": {
+    "role": "Fullstack Developer",
+    "type": "Project freelance",
+    "status": "Selesai",
+    "documentation": "Laravel + MySQL",
+    "lede": "Sistem manajemen operasional bengkel otomotif resmi Honda yang mencakup pengelolaan pelanggan, pencatatan servis, dan transaksi berbasis web.",
+    "coverLabel": "AHASS TDM Martapura",
+    "coverCaption": "// visual konsep — tambahkan screenshot asli melalui data cover jika tersedia",
+    "sections": [
+      {
+        "number": "01",
+        "title": "Tantangan",
+        "paragraphs": [
+          "Operasional bengkel membutuhkan satu sumber data untuk pelanggan, riwayat servis, dan transaksi. Tantangannya adalah menjaga alur kerja tetap ringkas saat data terus bertambah."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Pendekatan",
+        "subsections": [
+          {
+            "title": "Operational workflow",
+            "paragraphs": ["Alur pelanggan, servis, dan transaksi disusun sebagai proses yang saling terhubung agar staf dapat memperbarui data tanpa pencatatan berulang."]
+          },
+          {
+            "title": "Structured data",
+            "paragraphs": ["Laravel dan MySQL digunakan untuk membangun fondasi aplikasi web yang mudah dirawat dan dikembangkan."]
+          }
+        ],
+        "list": [
+          "Menyusun modul pengelolaan pelanggan",
+          "Mencatat servis dan riwayat kendaraan secara terstruktur",
+          "Menghubungkan pencatatan transaksi dalam satu sistem"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Tumpukan Teknologi",
+        "stack": ["Laravel", "MySQL", "PHP", "Web-Based"]
+      },
+      {
+        "number": "04",
+        "title": "Galeri",
+        "gallery": ["Data Pelanggan", "Pencatatan Servis", "Transaksi Bengkel"]
+      },
+      {
+        "number": "05",
+        "title": "Hasil",
+        "outcomes": [
+          { "value": "1", "label": "Alur operasional terpusat" },
+          { "value": "CRUD", "label": "Data pelanggan dan servis terkelola" },
+          { "value": "Web", "label": "Akses kerja berbasis browser" }
+        ]
+      }
+    ]
+  },
+  "housing": {
+    "role": "System Analyst & Developer",
+    "type": "Project algoritma",
+    "status": "Selesai",
+    "documentation": "Fuzzy Logic + SAW",
+    "lede": "Sistem Pendukung Keputusan untuk merekomendasikan perumahan terbaik berdasarkan kriteria dan bobot yang ditentukan pengguna.",
+    "coverLabel": "Housing Decision System",
+    "coverCaption": "// visual konsep — tambahkan screenshot asli melalui data cover jika tersedia",
+    "sections": [
+      {
+        "number": "01",
+        "title": "Tantangan",
+        "paragraphs": [
+          "Pilihan perumahan memiliki banyak kriteria dengan bobot yang berbeda. Sistem perlu mengubah data tersebut menjadi rekomendasi yang mudah dibandingkan."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Pendekatan",
+        "subsections": [
+          {
+            "title": "Hybrid scoring",
+            "paragraphs": ["Metode Fuzzy dan Simple Additive Weighting (SAW) dipadukan untuk mengolah nilai kriteria dan menghasilkan peringkat rekomendasi."]
+          },
+          {
+            "title": "Readable recommendation",
+            "paragraphs": ["Hasil perhitungan disajikan dalam bentuk yang lebih mudah dipahami agar pengguna dapat melihat alasan di balik peringkat."]
+          }
+        ],
+        "list": [
+          "Mengolah kriteria dan bobot sebagai input keputusan",
+          "Menggabungkan Fuzzy Logic dan metode SAW",
+          "Menyimpan data pendukung pada MySQL"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Tumpukan Teknologi",
+        "stack": ["JavaScript", "MySQL", "Fuzzy Logic", "SAW"]
+      },
+      {
+        "number": "04",
+        "title": "Galeri",
+        "gallery": ["Kriteria Perumahan", "Pembobotan", "Peringkat Rekomendasi"]
+      },
+      {
+        "number": "05",
+        "title": "Hasil",
+        "outcomes": [
+          { "value": "Fuzzy", "label": "Nilai kriteria lebih fleksibel" },
+          { "value": "SAW", "label": "Peringkat alternatif terukur" },
+          { "value": "SQL", "label": "Data keputusan tersimpan rapi" }
+        ]
+      }
+    ]
+  },
+  "inventory": {
+    "role": "Fullstack Developer",
+    "type": "Project dashboard",
+    "status": "Selesai",
+    "documentation": "React + Node.js",
+    "lede": "Sistem manajemen stok dengan monitoring dan dashboard visualisasi data interaktif untuk mendukung keputusan bisnis.",
+    "coverLabel": "Inventory Analytics",
+    "coverCaption": "// visual konsep — tambahkan screenshot asli melalui data cover jika tersedia",
+    "sections": [
+      {
+        "number": "01",
+        "title": "Tantangan",
+        "paragraphs": [
+          "Data stok perlu dipantau dengan cepat agar perubahan persediaan dapat terlihat oleh tim. Tantangannya adalah menyajikan data operasional dalam ringkasan yang mudah dipindai."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Pendekatan",
+        "subsections": [
+          {
+            "title": "Dashboard-first",
+            "paragraphs": ["Informasi stok dan metrik utama diringkas menjadi dashboard agar pengguna bisa memahami kondisi inventory tanpa membuka banyak halaman."]
+          },
+          {
+            "title": "Connected data flow",
+            "paragraphs": ["React, Node.js, dan REST API digunakan untuk menghubungkan data operasional dengan visualisasi yang interaktif."]
+          }
+        ],
+        "list": [
+          "Membangun monitoring stok berbasis data",
+          "Menyajikan visualisasi untuk membantu analisis",
+          "Menghubungkan frontend dengan REST API"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Tumpukan Teknologi",
+        "stack": ["React.js", "Node.js", "Data Viz", "REST API"]
+      },
+      {
+        "number": "04",
+        "title": "Galeri",
+        "gallery": ["Ringkasan Stok", "Analisis Data", "Monitoring Inventory"]
+      },
+      {
+        "number": "05",
+        "title": "Hasil",
+        "outcomes": [
+          { "value": "Live", "label": "Monitoring data inventory" },
+          { "value": "Viz", "label": "Visualisasi untuk analisis cepat" },
+          { "value": "API", "label": "Data terhubung melalui REST API" }
+        ]
+      }
+    ]
+  }
+}

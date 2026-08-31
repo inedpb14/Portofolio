@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Deni Prastya Budi – Fullstack Developer",
+    "description": "Portfolio Deni Prastya Budi, fullstack developer yang membangun aplikasi web end-to-end.",
+    "heroTag": "Fullstack Developer · Fresh Graduate",
+    "skillsTag": "Keahlian",
+    "skillsTitle": "Technical Skills",
+    "selectedTag": "Portofolio pilihan",
+    "selectedTitle": "Selected Projects",
+    "selectedIntro": "Beberapa project yang paling merepresentasikan kemampuan saya dalam membangun produk web dari konsep sampai implementasi.",
+    "selectedCta": "Lihat Semua Project →"
+  },
+  "projects": {
+    "title": "Projects – Deni Prastya Budi",
+    "description": "Kumpulan project web Deni Prastya Budi, dari sistem pakar hingga dashboard inventory.",
+    "tag": "Portofolio lengkap",
+    "title": "Projects that turn problems into products.",
+    "intro": "Kumpulan project akademik, freelance, dan sistem internal yang saya bangun dengan fokus pada alur pengguna, logika bisnis, serta fondasi teknis yang dapat diandalkan."
+  },
+  "experience": {
+    "title": "Experience & Achievement – Deni Prastya Budi",
+    "description": "Pengalaman kerja dan pencapaian Deni Prastya Budi sebagai fullstack developer.",
+    "tag": "Perjalanan profesional",
+    "title": "Experience, curiosity, and meaningful outcomes.",
+    "intro": "Pengalaman saya berangkat dari pengembangan sistem, komunikasi digital, dan kolaborasi lintas kebutuhan untuk menghasilkan solusi yang benar-benar digunakan.",
+    "experienceTag": "Pengalaman",
+    "experienceTitle": "Work Experience",
+    "achievementTag": "Prestasi",
+    "achievementTitle": "Achievement"
+  },
+  "contact": {
+    "title": "Contact – Deni Prastya Budi",
+    "description": "Hubungi Deni Prastya Budi untuk kolaborasi, project web, atau peluang kerja.",
+    "tag": "Mari terhubung",
+    "title": "Let’s build something useful together.",
+    "intro": "Terbuka untuk peluang kerja, freelance, dan kolaborasi yang membutuhkan developer untuk mengubah ide menjadi pengalaman digital yang rapi dan fungsional.",
+    "contactTag": "Kontak",
+    "contactTitle": "Get In Touch"
+  },
+  "project-detail": {
+    "title": "Project Detail – Deni Prastya Budi",
+    "description": "Studi kasus project web Deni Prastya Budi."
+  }
+}
